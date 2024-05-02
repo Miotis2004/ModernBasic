@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\bin\Debug\net8.0\ModernBasic.exe
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\bin\Debug\net8.0\ModernBasic.deps.json
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\bin\Debug\net8.0\ModernBasic.runtimeconfig.json
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\bin\Debug\net8.0\ModernBasic.dll
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\bin\Debug\net8.0\ModernBasic.pdb
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.AssemblyInfo.cs
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.sourcelink.json
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.dll
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\refint\ModernBasic.dll
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.pdb
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ModernBasic.genruntimeconfig.cache
+C:\Users\User\Desktop\ModernBasic\ModernBasic\ModernBasic\ModernBasic\obj\Debug\net8.0\ref\ModernBasic.dll
